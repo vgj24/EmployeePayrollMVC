@@ -1,0 +1,26 @@
+﻿
+.create {
+    text-align: center
+}
+
+.row {
+    background-color: #ddb8b8;
+    justify-content: center
+}
+
+.icon{
+    height:45px;
+    width:45px;
+    padding-top:10px;
+}
+
+.form-group{
+    display:flex;
+    flex-direction:row;
+    margin-bottom:28px;
+    justify-content:left;
+}
+
+.back {
+    padding-right: 192px;
+}
